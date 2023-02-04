@@ -14,7 +14,8 @@
         <img height= "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcesar0&layout=compact&theme=radical">
     </a>
 </div>
-
+<br>
+My main technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
