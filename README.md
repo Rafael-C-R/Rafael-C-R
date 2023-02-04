@@ -27,5 +27,3 @@
 ### Faculdade
 - Curso: Analise e Desenvolvimento de Sistemas
 - Data prevista para formação: 31/06/2024
-
-![snake eif](https://github.com/rafaelcesar0/rafaelcesar0/blob/main/.github/workflows/main.yml)
