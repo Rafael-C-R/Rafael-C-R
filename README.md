@@ -10,6 +10,7 @@
   <br>
   <a target="_blank" href="https://www.linkedin.com/in/rafael-c%C3%A9sar-rocha-0568b31a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="https://www.instagram.com/_rcrock/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a target="_blank" href="https://www.kaggle.com/rafaelcsarrocha"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </div>
 <br>
 
