@@ -4,7 +4,7 @@
 
 <p align="center">
   🔭 Passionate about technology<br>
-  🌱 Currently studying Systems Analysis and Development, 3/5 semesters completed.
+  🌱 Currently studying Systems Analysis and Development, 4/5 semesters completed.
 <p>
 <div align="center">
   <br>
