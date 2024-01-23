@@ -1,6 +1,6 @@
 # About me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0008ff&size=35&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Rafael+César.;I+from+Brazil,+Ceará.;Welcome!+😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5bfc&size=35&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Rafael+César.;I+from+Brazil,+Ceará.;Welcome!+😁)](https://git.io/typing-svg)
 
 - 👨‍💻 I love technology
 - 🎓 Completing systems analysis and development degree - 06/2024
