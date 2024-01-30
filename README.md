@@ -10,7 +10,7 @@
 ![Estudando no momento](https://skillicons.dev/icons?i=nodejs,next,express,selenium,postgres,prisma&theme=dark)
 
 ## 🔧 Main technologies and tools:
-![My skillss](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind&theme=dark)&nbsp;
+![My skillss](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react&theme=dark)&nbsp;
 ![My skills](https://skillicons.dev/icons?i=python,vscode,vite,bash,git,linux&theme=dark)&nbsp;
 
 ## 📲 Contact me
