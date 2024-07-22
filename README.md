@@ -2,16 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5bfc&size=35&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Rafael+César.;I+from+Brazil,+Ceará.;Welcome!+😁)](https://git.io/typing-svg)
 
-- 👨‍💻 I love technology
-- 🎓 Completing systems analysis and development degree - 06/2024
-- 📜  Completing postgraduate degree in data analysis - 09/24
+- 🌐 My focus is on Full-Stack Web.
+- 📈 Flirt with data analysis
+- 🎓 Graduated in Systems Analysis and Development - 08/2024
 
-### 📚 What I'm currently studying:
-![Estudando no momento](https://skillicons.dev/icons?i=nodejs,next,express,selenium,postgres,prisma&theme=dark)
+## 🔧 Main technologies:
+![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,express,react,linux,bash,git)
+### I've already developed with
+![Second tecnologies](https://skillicons.dev/icons?i=nextjs,vite,postgres,prisma,bootstrap,tailwind,selenium,python,pandas)&nbsp;
+- TypeORM
+- Pandas
+### I'm testing
+![Testing tecnologies](https://skillicons.dev/icons?i=angular,bun,elysia,htmx,docker)&nbsp;
 
-## 🔧 Main technologies and tools:
-![My skillss](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react&theme=dark)&nbsp;
-![My skills](https://skillicons.dev/icons?i=python,vscode,vite,bash,git,linux&theme=dark)&nbsp;
 
 ## 📲 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcesar988@gmail.com?subject=Contacting_via_GitHub)&nbsp;
