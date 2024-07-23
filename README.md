@@ -13,7 +13,7 @@
 ![Second tecnologies](https://skillicons.dev/icons?i=nextjs,vite,postgres,prisma,bootstrap,tailwind,selenium,python)&nbsp;
 - TypeORM
 - Pandas
-- 
+
 ### I'm testing
 ![Testing tecnologies](https://skillicons.dev/icons?i=angular,bun,elysia,htmx,docker)&nbsp;
 
