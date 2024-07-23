@@ -8,10 +8,12 @@
 
 ## 🔧 Main technologies:
 ![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,express,react,linux,bash,git)
+
 ### I've already developed with
-![Second tecnologies](https://skillicons.dev/icons?i=nextjs,vite,postgres,prisma,bootstrap,tailwind,selenium,python,pandas)&nbsp;
+![Second tecnologies](https://skillicons.dev/icons?i=nextjs,vite,postgres,prisma,bootstrap,tailwind,selenium,python)&nbsp;
 - TypeORM
 - Pandas
+- 
 ### I'm testing
 ![Testing tecnologies](https://skillicons.dev/icons?i=angular,bun,elysia,htmx,docker)&nbsp;
 
