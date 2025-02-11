@@ -1,24 +1,15 @@
-# About me
+# 👨🏻‍💻 Rafael César
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5bfc&size=35&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Rafael+César.;I+from+Brazil,+Ceará.;Welcome!+😁)](https://git.io/typing-svg)
+**`Desenvolvedor Full-Stack`**
 
-- 🌐 My focus is on Full-Stack Web.
-- 📈 Flirt with data analysis
-- 🎓 Graduated in Systems Analysis and Development - 08/2024
+My name is Rafael César, and I am from Fortaleza, CE, Brazil. I have completed a degree in Systems Analysis and Development.
 
-## 🔧 Main technologies:
-![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,express,react,linux,bash,git)
+I love programming and focus on fundamental concepts because they teach you that languages are just tools.
 
-### I've already developed with
-![Second tecnologies](https://skillicons.dev/icons?i=nextjs,vite,postgres,prisma,bootstrap,tailwind,selenium,python)&nbsp;
-- TypeORM
-- Pandas
+# 📲 Contact me:
 
-### I'm testing
-![Testing tecnologies](https://skillicons.dev/icons?i=angular,bun,elysia,htmx,docker)&nbsp;
-
-
-## 📲 Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcesar988@gmail.com?subject=Contacting_via_GitHub)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.cesar.dev@gmail.com?subject=Contacting_via_GitHub)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcesar0/)&nbsp;
 
+# 🛠️ I've worked with:
+![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,express,react,next,angular,postgres,prisma,bootstrap,tailwind,selenium,python,linux,bash,git)
